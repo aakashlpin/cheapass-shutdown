@@ -1,0 +1,38 @@
+html, body {
+  font-size: 20px;
+  background: #21232D;
+  color: #D8D8D6;
+  font-family: 'PT Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'PT Serif', serif;
+  color: #57C7FF;
+}
+
+a {
+  color: #F3F99D;
+}
+
+.highlight {
+  color: #F92672;
+  font-weight: bold;
+}
+
+.wrapper {
+  padding: 1rem;
+}
+
+li {
+  margin-bottom: 2rem;
+}
+
+.section {
+  margin-bottom: 3rem;
+}
+
+/**
+             * (optional) define here the style definitions which should be applied on the slider container
+             * e.g. width including further controls like arrows etc.
+             */
+
